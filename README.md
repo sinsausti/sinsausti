@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Sebastian.</h1>
+<h1>Hi there 👋, I'm Sebastian.</h1>
 <h3>I'm a experienced IT Professional with over 18 years of expertise in the industry as Sysadmin, SRE, DevOps, DBA, and Network Administrator.</h3>
 
 - 🔭 I’m currently working on **Severalnines** as a Senior Support Engineer
