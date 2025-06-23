@@ -1,9 +1,11 @@
 <h1>Hi there 👋, I'm Sebastian</h1>
 <h3>I'm a experienced IT Professional with over 18 years of expertise in the industry as Sysadmin, SRE, DevOps, DBA, and Network Administrator.</h3>
 
-- 🔭 I’m currently working at **Severalnines** as a Senior Support Engineer
+- 👨‍💻 Currently working at **Severalnines** as a Senior Support Engineer
 
-- ✈️ I'm from Uruguay 🇺🇾 but living in Canada 🇨🇦
+- ✈️ I'm from Uruguay 🇺🇾
+
+- 🏠 Living in Canada 🇨🇦
 
 <h3>Connect with me:</h3>
 
@@ -11,7 +13,7 @@
   
 - 📄 Linkedin: [https://www.linkedin.com/in/sebastian-insausti/](https://www.linkedin.com/in/sebastian-insausti/)
 
-<h3>Languages and Tools:</h3>
+<h3>Knowledge:</h3>
 <p> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
@@ -34,7 +36,6 @@
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a> 
