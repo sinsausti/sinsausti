@@ -13,7 +13,7 @@
   
 - 📄 Linkedin: [https://www.linkedin.com/in/sebastian-insausti/](https://www.linkedin.com/in/sebastian-insausti/)
 
-<h3>Knowledge:</h3>
+<h3>Skills:</h3>
 <p> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
